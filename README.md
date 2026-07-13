@@ -59,6 +59,10 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 * ✍️ **Advanced Prompt Engineering**
 * 📈 **Digital Marketing & Content Strategy**
 * 📊 **Data Analysis & Visualization**
+* 🌐 **Full Stack Web Development**
+* 📱 **Mobile App Development**
+* 🧩 **Custom AI Solution Architect**
+* 🚀 **Freelance Technical Consulting**
 
 ---
 
