@@ -1,4 +1,4 @@
-# 👋 হ্যালো, আমি Md. Amirul Hoda (পলাশ)
+# 👋 হ্যালো, আমি **Md. Amirul Hoda (পলাশ)**!
 
 I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love building innovative projects by combining artificial intelligence, technology, design, and marketing. My goal is to turn creative ideas into practical, impactful digital solutions.
 
@@ -12,8 +12,6 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 * 📍 **Location**: Sunamganj, Bangladesh 🇧🇩
 ---
 
----
-
 ### 🛠 Skills & Tools
 
 #### 🤖 AI & Machine Learning
@@ -21,10 +19,29 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 #### ⚡ Prompt Engineering & AI Tools
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B68EE?style=for-the-badge&logo=openai&logoColor=white)
 ![Midjourney](https://img.shields.io/badge/Midjourney-000000?style=for-the-badge&logo=midjourney&logoColor=white)
+
+#### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🌐 Web Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+
+#### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
 #### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
