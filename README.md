@@ -54,15 +54,28 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 
 ---
 
-### 🌟 Specialties
+### 🌟 Specialties & Expertise
 * 🤖 **Artificial Intelligence & Machine Learning**
 * ✍️ **Advanced Prompt Engineering**
-* 📈 **Digital Marketing & Content Strategy**
+* 🌐 **Full Stack Web Development** (WordPress & Frontend)
+* 📈 **Digital Marketing & Content Strategy** (SEO & Promotion)
+* 🎨 **Graphic Design** (Logo, Branding & Social Media)
 * 📊 **Data Analysis & Visualization**
-* 🌐 **Full Stack Web Development**
 * 📱 **Mobile App Development**
+* 💼 **Fiverr & Upwork Specialist**
 * 🧩 **Custom AI Solution Architect**
-* 🚀 **Freelance Technical Consulting**
+* 🚀 **Freelance Technical Consulting & Virtual Assistance**
+
+---
+
+### ✨ What I Can Offer
+* ✅ **High-quality and timely project delivery**
+* ✅ **Strong communication with international clients**
+* ✅ **Creative problem-solving and attention to detail**
+* ✅ **100% client satisfaction focus**
+
+*I have successfully completed multiple projects with international clients, always maintaining professionalism and quality.*
+
 
 ---
 
