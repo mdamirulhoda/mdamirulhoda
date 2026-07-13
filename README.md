@@ -95,7 +95,6 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 ### 🌍 Availability & Opportunities
 🚀 I am actively open to Visa Sponsorship for International Work. 
 Whether it's a remote project or an on-site assignment, I am ready to travel and work with innovative teams globally to build impactful solutions.
----
 
 
 ---
