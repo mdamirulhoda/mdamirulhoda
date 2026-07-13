@@ -79,6 +79,10 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 <a href="https://www.fiverr.com/s/ljqoXVQ"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
 
 ---
+### 🌍 Availability & Opportunities
+🚀 **I am open to collaborations and sponsorship opportunities worldwide! Whether it's a remote project or an on-site assignment, I am ready to travel and work with innovative teams globally to build impactful solutions.
+
+---
 ### ✨ Thank you for visiting my profile! ✨
 Feel free to explore my projects, and if you have any innovative ideas in mind, let's connect and bring them to life together! 🚀
 
