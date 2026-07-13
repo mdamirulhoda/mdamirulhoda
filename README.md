@@ -14,7 +14,6 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love crea
 * 🎓 **Education**: Computer & Mobile Systems Engineering at National Institute of Textile Engineering and Research (NITER)
 * 💼 **Current Role**: AI Specialist, Prompt Engineer, Digital Content Creator & Freelance Consultant
 * 📍 **Location**: Sunamganj, Bangladesh 🇧🇩
-
 ---
 
 ---
