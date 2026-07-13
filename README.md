@@ -1,4 +1,4 @@
-👋 হ্যালো, আমি **Md. Amirul Hoda (পলাশ)**!
+# 👋 হ্যালো, আমি Md. Amirul Hoda (পলাশ)!
 
 I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love building innovative projects by combining artificial intelligence, technology, design, and marketing. My goal is to turn creative ideas into practical, impactful digital solutions.
 
