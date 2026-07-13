@@ -1,15 +1,8 @@
-# <img src="My%20Photo%20A%20JPG.png" width="120" height="120" align="left" style="border-radius: 50%; margin-right: 25px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"> 👋 Hello, I'm Md Amirul Hoda {Polash}!
-
-<p style="margin-left: 145px; font-size: 1.1em; color: #555;"> 👋 হ্যালো, আমি Md Amirul Hoda {পলাশ}! </p>
-
-<br>
-
+👋 হ্যালো, আমি Md Amirul Hoda {পলাশ}
 ### 🚀 About Me
-<p style="font-size: 1.05em; line-height: 1.6; color: #333;">
-I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love creating projects by combining technology, design, and marketing.<br>
-  
-<b>আমি একজন AI Specialist, Prompt Engineer এবং ডিজিটাল কন্টেন্ট ক্রিয়েটর। আমি প্রযুক্তি, ডিজাইন এবং মার্কেটিংয়ের সমন্বয়ে প্রজেক্ট তৈরি করতে ভালোবাসি।</b>
-</p>
+I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love creating projects by combining technology, design, and marketing.
+
+আমি একজন AI Specialist, Prompt Engineer এবং ডিজিটাল কন্টেন্ট ক্রিয়েটর। আমি প্রযুক্তি, ডিজাইন এবং মার্কেটিংয়ের সমন্বয়ে প্রজেক্ট তৈরি করতে ভালোবাসি।
 ---
 * 🎓 **Education**: Computer & Mobile Systems Engineering at National Institute of Textile Engineering and Research (NITER)
 * 💼 **Current Role**: AI Specialist, Prompt Engineer, Digital Content Creator & Freelance Consultant
