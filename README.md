@@ -1,5 +1,6 @@
-# <img src="My%20Photo%20A%20JPG.png" width="100" height="100" align="left" style="margin-right: 20px;">
+# <img src="My%20Photo%20A%20JPG.png" width="100" height="100" align="left" style="margin-right: 20px;"> 👋 Hello, I'm Md Amirul Hoda {Polash}!
 👋 হ্যালো, আমি Md Amirul Hoda {পলাশ}!
+
 I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love creating projects by combining technology, design, and marketing.
 
 আমি একজন AI Specialist, Prompt Engineer এবং ডিজিটাল কন্টেন্ট ক্রিয়েটর। আমি প্রযুক্তি, ডিজাইন এবং মার্কেটিংয়ের সমন্বয়ে প্রজেক্ট তৈরি করতে ভালোবাসি।
