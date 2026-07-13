@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 হ্যালো, আমি Md Amirul Hoda!
 
-<!--
-**mdamirulhoda/mdamirulhoda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+আমি একজন AI Specialist এবং প্রম্পট ইঞ্জিনিয়ার। আমি প্রযুক্তি ও ডিজাইন নিয়ে কাজ করতে ভালোবাসি।
 
-Here are some ideas to get you started:
+### 🛠 আমার দক্ষতা ও টুলস
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**AI & Machine Learning**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+**Programming Languages**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Tools & Platforms**
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+---
+### 🚀 যোগাযোগ করুন
+* 📧 Email: mdamirulhodapolash@gmail.com
+* 💼 LinkedIn: [আমার লিঙ্কডইন প্রোফাইল](https://www.linkedin.com/in/mohammed-amirul-islam-720119401)
+* 
