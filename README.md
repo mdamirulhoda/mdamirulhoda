@@ -141,11 +141,15 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 
 
 ### 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/mohammed-amirul-islam-720119401"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="mailto:mdamirulhodapolash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://x.com/mdamirulhoda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.upwork.com/freelancers/~012072c3d002cb852a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"></a>
-<a href="https://www.fiverr.com/s/ljqoXVQ"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"></a>
+<a <h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-amirul-islam-720119401"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mdamirulhodapolash@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://x.com/mdamirulhoda"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://www.upwork.com/freelancers/~012072c3d002cb852a"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+<a href="https://www.fiverr.com/s/ljqoXVQ"><img src="https://img.shields.io/badge/Fiverr-1dbf73?style=for-the-badge&logo=fiverr&logoColor=white"></a>
+</p>
 
 ---
 ### 🌍 Availability & Opportunities
