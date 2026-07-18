@@ -1,6 +1,6 @@
 <!-- 🌊 Wave Header -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Md%20Amirul%20Hoda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Md%20Amirul%20Hoda%20(Polash)&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 <div align="center">
 
