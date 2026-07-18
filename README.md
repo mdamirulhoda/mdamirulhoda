@@ -140,7 +140,6 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 </p>
 
 
-### 🌐 Connect with Me
 <a <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
