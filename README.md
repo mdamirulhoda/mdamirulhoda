@@ -118,3 +118,128 @@ Whether it's a remote project or an on-site assignment, I am ready to travel and
 Feel free to explore my projects, and if you have any innovative ideas in mind, let's connect and bring them to life together! 🚀
 
 আমার প্রজেক্টগুলো ঘুরে দেখুন, এবং যদি আপনার মাথায় নতুন কোনো দারুণ আইডিয়া থাকে, তবে যোগাযোগ করুন এবং চলুন একসাথে সেটি বাস্তবে রূপ দেই! 😊
+
+
+<!-- ========================= -->
+<!-- Typing Animation -->
+<!-- ========================= -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer;Prompt+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies."/>
+
+</div>
+
+<br>
+
+<!-- ========================= -->
+<!-- Featured Projects -->
+<!-- ========================= -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<p align="center">
+
+<a href="https://github.com/mdamirulhoda/mdamirulhoda.github.io">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdamirulhoda&repo=mdamirulhoda.github.io&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/mdamirulhoda/my-pro-portfolio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mdamirulhoda&repo=my-pro-portfolio&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- GitHub Stats -->
+<!-- ========================= -->
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- GitHub Streak -->
+<!-- ========================= -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdamirulhoda&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- Contribution Graph -->
+<!-- ========================= -->
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamirulhoda&theme=tokyo-night"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- GitHub Trophy -->
+<!-- ========================= -->
+
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mdamirulhoda&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- Profile Views -->
+<!-- ========================= -->
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mdamirulhoda&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- Snake Animation -->
+<!-- ========================= -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/mdamirulhoda/mdamirulhoda/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+<br>
+
+<!-- ========================= -->
+<!-- Wave Footer -->
+<!-- ========================= -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:8A2BE2&height=170&section=footer"/>
