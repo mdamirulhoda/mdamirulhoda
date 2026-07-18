@@ -1,9 +1,31 @@
+<!-- 🌊 Wave Header -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Md%20Amirul%20Hoda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+<!-- 👤 Profile Photo -->
+
+<div align="center">
+
+<img src="https://github.com/mdamirulhoda/mdamirulhoda/blob/main/My%20Photo%20A%20JPG.png?raw=true" width="200"/>
+
+</div>
+
+<!-- ⌨️ Typing Animation -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&lines=AI+Specialist;Prompt+Engineer;Digital+Content+Creator;Full+Stack+Web+Developer;Freelance+Consultant;Open+to+International+Opportunities"/>
+
+</div>
+
 <div align="center">
   <img src="https://github.com/mdamirulhoda/mdamirulhoda/blob/main/My%20Photo%20A%20JPG.png?raw=true" width="200px" style="border-radius: 50%;">
 </div>
 
 
 # 🚀 Welcome to my portfolio!
+
+I am an AI Specialist...
 
 
 I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love building innovative projects by combining artificial intelligence, technology, design, and marketing. My goal is to turn creative ideas into practical, impactful digital solutions.
@@ -69,82 +91,6 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
   <img src="https://img.shields.io/badge/Digital%20Marketing-E91E63?style=for-the-badge&logo=googleads&logoColor=white" alt="Digital Marketing"/>
 </p>
 
-<!-- ===================================== -->
-<!--        Premium Typing Animation       -->
-<!-- ===================================== -->
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&pause=1200&color=00D4FF&center=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+Profile!;AI+Engineer;Prompt+Engineer;Full+Stack+Developer;Always+Learning+New+Technologies;Thanks+for+Visiting+My+Profile+❤"/>
-
-</div>
-
-<br>
-
-<!-- ===================================== -->
-<!--          GitHub Statistics            -->
-<!-- ===================================== -->
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
-
-<!-- ===================================== -->
-<!--          GitHub Streak                -->
-<!-- ===================================== -->
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdamirulhoda&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<br>
-
-<!-- ===================================== -->
-<!--       Contribution Graph              -->
-<!-- ===================================== -->
-
-<h2 align="center">📈 Contribution Graph</h2>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamirulhoda&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
-<br>
-
-<!-- ===================================== -->
-<!--          Profile Views                -->
-<!-- ===================================== -->
-
-<h2 align="center">👀 Profile Views</h2>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=mdamirulhoda&label=PROFILE+VIEWS&style=for-the-badge&color=0e75b6"/>
-
-</p>
-
-<br>
-
-<!-- ===================================== -->
-<!--        Premium Footer                 -->
-<!-- ===================================== -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=footer&color=gradient"/>
-
 
 ### 🌟 Specialties & Expertise
 * 🤖 **Artificial Intelligence & Machine Learning**
@@ -171,10 +117,40 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 
 ---
 
-### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=radical&hide_border=true)
-![Trophy](https://github-profile-trophy.vercel.app/?username=mdamirulhoda&theme=radical)
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<h2 align="center">🔥 GitHub Streak</h2>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mdamirulhoda&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamirulhoda&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<h2 align="center">👀 Profile Views</h2>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=mdamirulhoda&style=for-the-badge&color=0e75b6"/>
+
+</p>
+
 
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mohammed-amirul-islam-720119401"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -194,3 +170,5 @@ Whether it's a remote project or an on-site assignment, I am ready to travel and
 Feel free to explore my projects, and if you have any innovative ideas in mind, let's connect and bring them to life together! 🚀
 
 আমার প্রজেক্টগুলো ঘুরে দেখুন, এবং যদি আপনার মাথায় নতুন কোনো দারুণ আইডিয়া থাকে, তবে যোগাযোগ করুন এবং চলুন একসাথে সেটি বাস্তবে রূপ দেই! 😊
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:6C63FF,50:00C2FF,100:00F5A0"/>
