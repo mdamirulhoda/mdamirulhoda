@@ -140,7 +140,7 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 </p>
 
 
-<a <h2 align="center">🌐 Connect with Me</h2>
+ <h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mohammed-amirul-islam-720119401"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
