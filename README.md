@@ -4,10 +4,7 @@
 
 <div align="center">
 
-<img src="https://github.com/mdamirulhoda/mdamirulhoda/blob/main/My%20Photo%20A%20JPG.png?raw=true" width="200"/>
-
-</div>
-
+  
 <!-- ⌨️ Typing Animation -->
 
 <div align="center">
