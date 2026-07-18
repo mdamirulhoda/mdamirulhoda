@@ -106,6 +106,10 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 *I have successfully completed multiple projects with international clients, always maintaining professionalism and quality.*
 
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=mdamirulhoda&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
 ---
 
 
@@ -129,6 +133,10 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdamirulhoda&theme=tokyo-night&hide_border=true"/>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/mdamirulhoda/mdamirulhoda/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
 </p>
 
 <h2 align="center">👀 Profile Views</h2>
@@ -136,6 +144,70 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=mdamirulhoda&style=for-the-badge&color=0e75b6"/>
+
+## 📌 Featured Projects
+
+- 🤖 AI Prompt Engineering
+- 🌐 Portfolio Website
+- 📱 Android Applications
+- 💻 AI Automation Projects
+
+
+## 📜 Certifications
+
+🏅 Prompt Engineering
+
+🏅 Artificial Intelligence
+
+🏅 Digital Marketing
+
+🏅 Web Development
+
+
+## 🌍 Languages
+
+🇧🇩 Bengali (Native)
+
+🇬🇧 English (Professional)
+
+🇮🇳 Hindi (Conversational)
+
+
+## 💼 Services
+
+✅ AI Prompt Engineering
+
+✅ ChatGPT Solutions
+
+✅ Full Stack Web Development
+
+✅ Graphic Design
+
+✅ SEO & Digital Marketing
+
+
+## 🎯 Currently Learning
+
+• AI Agents
+
+• LLM Applications
+
+• Cloud Computing
+
+## 🤝 Looking to Collaborate
+
+🚀 AI Projects
+
+🌐 Open Source
+
+💼 Freelance Projects
+
+
+## 💬 Favorite Quote
+
+> Turning ideas into intelligent digital solutions.
+> 
+
 
 </p>
 
