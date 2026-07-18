@@ -118,24 +118,12 @@ I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love buil
 ---
 
 
-<h2 align="center">। 📊GitHub Statistics  </h2>
+## 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mdamirulhoda&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdamirulhoda&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-<h2 align="center">🔥 GitHub Streak</h2>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=mdamirulhoda&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
