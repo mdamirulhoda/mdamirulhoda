@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6C63FF,50:00C2FF,100:00F5A0&text=Md%20Amirul%20Hoda&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-<!-- 👤 Profile Photo -->
-
 <div align="center">
 
 <img src="https://github.com/mdamirulhoda/mdamirulhoda/blob/main/My%20Photo%20A%20JPG.png?raw=true" width="200"/>
@@ -24,8 +22,6 @@
 
 
 # 🚀 Welcome to my portfolio!
-
-I am an AI Specialist...
 
 
 I am an AI Specialist, Prompt Engineer, and Digital Content Creator. I love building innovative projects by combining artificial intelligence, technology, design, and marketing. My goal is to turn creative ideas into practical, impactful digital solutions.
